@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **cmkap/cmkap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+  <img alt="Profile Picture" src="https://user-images.githubusercontent.com/72412305/170298791-0d9a31b3-3d12-4c0f-9687-3624d79f7764.gif" width="300" />
+  
+### Hi there 👋
+  
+  <br>
+  
+  
+  [![CV](https://img.shields.io/static/v1?label=My&message=CV&color=9ef0e3)](https://github.com/cmkap/CV) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=IN&color=286fc7)](https://www.linkedin.com/in/chisambwe/)
+
+</div>
